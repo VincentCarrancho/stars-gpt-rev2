@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Vincent-Carrancho-s-workspace-kj5dq0.us-east-1.xata.sh/db/stars-gpt-2",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

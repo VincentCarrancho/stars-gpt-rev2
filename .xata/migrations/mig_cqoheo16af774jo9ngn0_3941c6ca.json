@@ -1,0 +1,16 @@
+{
+  "id": "mig_cqoheo16af774jo9ngn0",
+  "parentID": "mig_cqoh7c515kedf441cou0",
+  "checksum": "1:3941c6cae7dc8a7dfd5ea707ece5820664d8459357a4f0443bf8428291db238c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "text",
+          "type": "string"
+        },
+        "table": "tests"
+      }
+    }
+  ]
+}

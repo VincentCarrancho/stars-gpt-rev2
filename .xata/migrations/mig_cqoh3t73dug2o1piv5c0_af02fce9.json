@@ -1,0 +1,12 @@
+{
+  "id": "mig_cqoh3t73dug2o1piv5c0",
+  "parentID": "mig_cqoh3r73dug2o1piv5ag",
+  "checksum": "1:af02fce9aeb6365ac18d4e90dbd92cb0ada3b7f731e04f399c449fb2a17024b4",
+  "operations": [
+    {
+      "addTable": {
+        "table": "messages"
+      }
+    }
+  ]
+}
